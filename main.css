@@ -1,0 +1,51 @@
+body {
+	background-image: url(images/pattern.png);
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Pompiere', cursive;
+	font-size: 3em;
+	color: #F5E4D7;
+}
+
+p {
+	font-family: 'Buda', serif;
+	color: #839788;
+}
+
+a {
+	font-family: 'Pompiere', cursive;
+	letter-spacing: 2px;
+	text-decoration: none;
+	color: #BDBBB6;
+	text-shadow: 1px 1px 1px;
+}
+
+a:hover {
+	color: #716F6A;
+}
+
+header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: rgba(115, 135, 123, 0.5);
+}
+
+#reddit {
+	margin-top: 145px;
+}
+
+.thumbnail {
+	float: left;
+	margin: 0 10px;
+	border-radius: 5px;
+}
+
+.container {
+	border-bottom: 1px solid #E5D1D0;
+	padding-bottom: 35px;
+	margin-bottom: 0.5em;
+}
